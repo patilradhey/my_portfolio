@@ -1,7 +1,7 @@
 import instagram from "../assets/instagram.png";
 import github from "../assets/github.png";
 import linkedin from "../assets/linkedin.png";
-import CV from "../assets/CV.pdf";
+import CV from "../assets/Cv.pdf";
 import hero from "../assets/hero.jpeg"
 import hi from "../assets/hii.png"
 import { DownloadIcon, Mail } from "lucide-react";
