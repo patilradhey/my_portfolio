@@ -35,7 +35,7 @@ const Projects = ({ darkMode }) => {
       image: project2,
       tags: ["HTML", "CSS", "Bootstrap"],
       github: "https://github.com/patilradhey/WS",
-      demo : "https://vercel.com/patilradheys-projects/vasline"
+      demo : "https://vasline.vercel.app/"
     },
     {
       id: 3,
