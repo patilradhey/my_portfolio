@@ -19,7 +19,7 @@ const Projects = ({darkMode}) => {
     
     {
       id: 10,
-      title: 'Med-COnnect',
+      title: 'MedConnect',
       image: project10,
       tags: ['React','Node.js','MongoDB','Google Gemini','Socek.io'],
       github: 'https://github.com/patilradhey/backend-doctor-app.git'
