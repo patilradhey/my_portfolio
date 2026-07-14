@@ -35,6 +35,7 @@ const Projects = ({ darkMode }) => {
       image: project2,
       tags: ["HTML", "CSS", "Bootstrap"],
       github: "https://github.com/patilradhey/WS",
+      demo : "https://vercel.com/patilradheys-projects/vasline"
     },
     {
       id: 3,
@@ -50,6 +51,7 @@ const Projects = ({ darkMode }) => {
       image: project4,
       tags: ["React", "JavaScript"],
       github: "https://github.com/patilradhey/movie_collection_with_review",
+      demo : "https://movie-collection-with-review.vercel.app/"
     },
     {
       id: 5,
