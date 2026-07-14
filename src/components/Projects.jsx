@@ -7,6 +7,7 @@ import project6 from '../assets/task.png'
 import project7 from '../assets/stock.png'
 import project8 from '../assets/electric.png'
 import project9 from '../assets/adidas.png'
+import project10 from '../assets/Doctor.png'
 
 import { FaGithub } from 'react-icons/fa6'
 import { FaExternalLinkAlt } from 'react-icons/fa'
@@ -15,7 +16,14 @@ import { FaExternalLinkAlt } from 'react-icons/fa'
 
 const Projects = ({darkMode}) => {
   const projects = [
+    
     {
+      id: 10,
+      title: 'Med-COnnect',
+      image: project10,
+      tags: ['React','Node.js','MongoDB','Google Gemini','Socek.io'],
+      github: 'https://github.com/patilradhey/backend-doctor-app.git'
+    },{
       id: 1,
       title: 'TinDog',
       image: project1,
